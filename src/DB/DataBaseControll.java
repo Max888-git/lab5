@@ -143,9 +143,9 @@ public class DataBaseControll {
     /**
      * Client client = new Client.Builder()
      *                 .setBDay(LocalDate.of(2019,10, 10))
-     *                 .setEmail("dstefurak@email.net")
-     *                 .setFName("Dmytro")
-     *                 .setLName("Stefurak")
+     *                 .setEmail("dgknjng@gmail.com")
+     *                 .setFName("Max")
+     *                 .setLName("Leka")
      *                 .setPaymentInfo("0000000000000000")
      *                 .setPhone("380508834011")
      * */
